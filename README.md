@@ -1,19 +1,12 @@
+### Hola 👋, Mi nombre es Alejandro Gomez
+#### Soy un desarrollador de software
+
+Habilidades: PHP / JAVA / MYSQL / HTML / CSS / JavaScript / Jquery / Bootstrap / Android / SQLServer / CodeIgniter / PostgreSQL / Perl / Xamarin / C# / Python / Firebase / React  
+
+- 🔭 Estoy trabajando en Grupo365 
+- 🌱 Estoy aprendiendo ReactJS, NetCore and other topics 
+- 📫 Cómo contactarme: www.linkedin.com/in/ing-alejandro-gomez 
 
 
-### Hi there 👋, my name is Alejandro Gomez
-#### I am Software Developer
-![I am Software Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
-
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
-
-Skills: PHP / JAVA / MYSQL / HTML / CSS / JavaScript / Jquery / Bootstrap / Android / SQLServer / CodeIgniter / PostgreSQL / Perl / Xamarin / C# / Python / Firebase   
-
-
-- 🌱 I’m currently learning ...
-- ReactJS / NetCore / 
-
-- 🔭 I’m currently working on this page. 
-
-
-
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/AlejandroGomezV)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/ing-alejandro-gomez/)  
 
