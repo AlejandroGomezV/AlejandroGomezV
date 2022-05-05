@@ -4,7 +4,7 @@
 Habilidades: PHP / JAVA / MYSQL / HTML / CSS / JavaScript / Jquery / Bootstrap / Android / SQLServer / CodeIgniter / PostgreSQL / Perl / Xamarin / C# / Python / Firebase / React  
 
 - 🔭 Estoy trabajando en Grupo365 
-- 🌱 Estoy aprendiendo ReactJS, NetCore and other topics 
+- 🌱 Estoy aprendiendo ReactJS, NetCore y otro temas 
 - 📫 Cómo contactarme: www.linkedin.com/in/ing-alejandro-gomez 
 
 
